@@ -1,0 +1,44 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x683f)
+    Vendor:   ATI
+    VRAM:     1003 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth\UnityCubeEarth_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.696399 ms
+C:/Users/umehara/Documents/GitHub/UnityCubeEarth/UnityCubeEarth/UnityCubeEarth_Data
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+C:/Users/umehara/AppData/LocalLow/DefaultCompany/UnityCubeEarth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+C:\Users\umehara\Documents\GitHub\UnityCubeEarth\UnityCubeEarth
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3040 -> priority: 1 
+  Thread -> id: 15bc -> priority: 1 
